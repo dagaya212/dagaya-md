@@ -25,17 +25,17 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{DAHAYA-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{dagaya212}/count.svg" /></p>
 
 
 <p align="center">
 <a href="https://github.com/XdTechPro/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=DAHAYA-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/XdTechPro/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/XdTechPro/DAHAYA-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -43,7 +43,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/XdTechPro/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/XdTechPro/DAHAYA-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
@@ -63,7 +63,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/XdTechPro/KHAN-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/XdTechPro/DAHAYA-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
 > Deploy on TaikDrove
