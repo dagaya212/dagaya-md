@@ -1,6 +1,6 @@
-name: khan-md
+name: dagaya-md
 services:
-  - name: khan-md-service
+  - name: dagaya-md-service
     type: web
     ports:
       - 5000
