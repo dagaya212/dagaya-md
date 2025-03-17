@@ -7,7 +7,7 @@
 ---
 
 ```
-🧚‍♂️𝗗𝗔𝗚𝗔𝗬𝗔-𝗠𝗗✨ BY JawadTechX 💜 
+🧚‍♂️𝗗𝗔𝗚𝗔𝗬𝗔-𝗠𝗗✨ BY ISHARA INDRAJITH 💜 
 ```
 
 --- 
