@@ -116,7 +116,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ KʜᴀɴX-Aɪ ♡*`
+        caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ Dagaya-Aɪ ♡*`
     }, { quoted: mek });
 
 } catch (e) {
